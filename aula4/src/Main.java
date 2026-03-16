@@ -11,5 +11,5 @@ public class Main {
         controlear1.ligar();
     }
 
-    //teste dois tres quatro
+    //t
 }
